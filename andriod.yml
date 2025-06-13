@@ -1,0 +1,4 @@
+TestBeds:
+  - Name: Device1
+    AndroidDevice:
+      - serial: "${DEVICE_SERIAL}"
