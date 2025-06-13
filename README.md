@@ -34,6 +34,7 @@ Python Packages
 List these in requirements.txt:
 
 mobly
+
 uiautomator2
 
 -------------
