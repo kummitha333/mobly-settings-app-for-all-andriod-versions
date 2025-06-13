@@ -5,11 +5,11 @@ This project uses Mobly and uiautomator2 to automate Android Settings toggles (W
 📁 Project Structure
 
 mobly-settings-app/
-├── andriod.py        # Mobly test class for toggles
-├── andriod.sh           # Shell script to run tests with serial
-├── andriod.yml               # Generated at runtime
-├── README.md                     # You're here
-└── requirements.txt              # Python dependencies
+├── andriod.py       
+├── andriod.sh          
+├── andriod.yml               
+├── README.md                  
+└── requirements.txt             
 ✅ Features
 Works across Android 10–15+
 
